@@ -1,1 +1,3 @@
 First file to be pushed to the master branch
+
+This file has been successfully pushed to the GIT repository.
